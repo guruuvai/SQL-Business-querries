@@ -1,3 +1,5 @@
+https://guruuvai.notion.site/SQL-Business-Queries-Project-6af8723718724116a2473be6b6be84ca?pvs=4
+
 # SQL-Business-querries
 ![SQL Business Queries Project_page-0001](https://github.com/guruuvai/SQL-Business-querries/assets/67874401/4b8715c2-9bd2-4b0e-bfec-bf78124f3e45)
 
